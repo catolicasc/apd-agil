@@ -2,7 +2,7 @@
 
 - **Início:** Hoje  
 - **Término:** Final do semestre  
-- **Equipe:** 5 integrantes  
+- **Equipe:** 5 integrantes  +- 2
 
 ---
 
