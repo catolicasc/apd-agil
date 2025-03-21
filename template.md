@@ -64,4 +64,7 @@
 ## Observações Finais
 
 *[Espaço livre para anotações da equipe, aprendizados, dificuldades ou sugestões para próximas etapas]*
+
+## Material de apoio
 - https://sebrae.com.br/Sebrae/Portal%20Sebrae/Arquivos/ebook_sebrae_metodologia_moscow.pdf
+- -https://www.youtube.com/watch?v=OOux_bS40pk
